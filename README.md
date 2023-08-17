@@ -18,7 +18,7 @@ Miguel Fernando Guirola Villalta | 201700772
 Paula Gabriela García Reinoso | 201700823
 
 ## Foto de los integrantes 
-![]([IMÁGEN_DEL_GRUPO.jpeg](https://github.com/USAC-LuisCorleto/20252S_Informe2_Grupo3/blob/main/IM%C3%81GEN%20DEL%20GRUPO.jpeg))
+![](https://github.com/USAC-LuisCorleto/20252S_Informe2_Grupo3/blob/main/IM%C3%81GEN%20DEL%20GRUPO.jpeg)
 
 # Contenido
 Instalación de Linux:
