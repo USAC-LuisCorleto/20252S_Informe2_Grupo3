@@ -22,6 +22,6 @@ Paula Gabriela García Reinoso | 201700823
 
 # Contenido
 Instalación de Linux:
-[![Watch the video](PORTADA_VIDEO_1.png)](https://youtu.be/0vKlOV3bgNk)
+[![Watch the video](/PORTADA_VIDEO_1.png)](https://youtu.be/0vKlOV3bgNk)
 Redes cableadas e inalámbricas:
-[![Watch the video](PORTADA_VIDEO_2.png)](https://youtu.be/BSe7pPl0YDU)
+[![Watch the video](/PORTADA_VIDEO_2.png)](https://youtu.be/BSe7pPl0YDU)
