@@ -18,10 +18,10 @@ Miguel Fernando Guirola Villalta | 201700772
 Paula Gabriela García Reinoso | 201700823
 
 ## Foto de los integrantes 
-![](IMÁGEN_DEL_GRUPO.jpeg)
+![]([IMÁGEN_DEL_GRUPO.jpeg](https://github.com/USAC-LuisCorleto/20252S_Informe2_Grupo3/blob/main/IM%C3%81GEN%20DEL%20GRUPO.jpeg))
 
 # Contenido
 Instalación de Linux:
-[![Watch the video](/PORTADA_VIDEO_1.png)](https://youtu.be/0vKlOV3bgNk)
+[![Watch the video](https://github.com/USAC-LuisCorleto/20252S_Informe2_Grupo3/blob/main/PORTADA%20VIDEO%201.png)](https://youtu.be/0vKlOV3bgNk)
 Redes cableadas e inalámbricas:
-[![Watch the video](/PORTADA_VIDEO_2.png)](https://youtu.be/BSe7pPl0YDU)
+[![Watch the video](https://github.com/USAC-LuisCorleto/20252S_Informe2_Grupo3/blob/main/PORTADA%20VIDEO%202.png)](https://youtu.be/BSe7pPl0YDU)
